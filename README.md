@@ -1,9 +1,7 @@
 **[Click here! 🢅](https://hariom24777.github.io/myntra-clone/)**
 
-# PROJECT TITLE
-## CLONE OF AN E-COMMERCE WEBSITE
+# CLONE OF AN E-COMMERCE WEBSITE
 (Creating a Customized Clone of Myntra)
-
 ## AGENDA
 - Made the clone of Myntra to showcase proficiency in HTML, CSS, and JavaScript.
 - To make it responsive and adaptable to different screen sizes, ensuring a smooth and consistent experience for users, regardless of the device they use.
